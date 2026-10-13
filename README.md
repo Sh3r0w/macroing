@@ -1,6 +1,6 @@
 # ⚠️ Disclaimer ⚠️
 
-That's not made by owner's account.
+That's **not** made by owner's account.
 
 # M A C R O
 ## Minecraft Automation to Craft highlites at Rift Official(Or someshit like this :P)
