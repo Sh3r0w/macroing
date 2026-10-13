@@ -1,2 +1,2 @@
-# macroing
-repo for macro - non Sh3row official | It's by friend
+# M A C R O
+-# Minecraft Automation to Craft highlites at Rift Official(Or something like that :P)
